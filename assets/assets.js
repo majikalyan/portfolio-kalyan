@@ -87,7 +87,7 @@ export const workData = [
         title: 'kalyan.',
         description: 'Portfolio WebSite',
         bgImage: '/work-2.png',
-        url:''
+        url:'https://portfolio-kalyan.vercel.app/'
     },
     {
         title: 'CloseAI',
