@@ -13,6 +13,9 @@ const skills = [
     { name: "Material UI", level: 80, category: "frontend" },
     { name: "Bootstrap", level: 90, category: "frontend" },
     { name: "Next.js", level: 80, category: "frontend" },
+    { name: "JQuery", level: 60, category: "frontend" },
+    { name: "Figma", level: 50, category: "frontend" },
+    { name: "Photoshop", level: 60, category: "frontend" },
 
     // Backend
     { name: "Supabase", level: 80, category: "backend" },

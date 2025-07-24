@@ -81,37 +81,43 @@ export const workData = [
         title: 'RealDocs',
         description: 'Document Management Application',
         bgImage: '/work-1.png',
-        url:'https://realdocs-two.vercel.app'
+        url: 'https://realdocs-two.vercel.app'
     },
     {
         title: 'kalyan.',
         description: 'Portfolio WebSite',
         bgImage: '/work-2.png',
-        url:'https://portfolio-kalyan.vercel.app/'
+        url: 'https://portfolio-kalyan.vercel.app/'
     },
     {
         title: 'CloseAI',
         description: 'Text-based Generative Application',
         bgImage: '/work-3.png',
-        url:'https://closeai-three.vercel.app'
+        url: 'https://closeai-three.vercel.app'
     },
     {
         title: 'MyTube',
         description: 'Video Playing Application',
         bgImage: '/work-4.png',
-        url:'https://mytube-kalyan.netlify.app/'
+        url: 'https://mytube-kalyan.netlify.app/'
     },
     {
         title: 'MyStore',
         description: 'Grocery Website',
         bgImage: '/work-5.png',
-        url:'https://kalyan-final-grocery.vercel.app/'
+        url: 'https://kalyan-final-grocery.vercel.app/'
     },
     {
         title: 'BARBER',
         description: 'Salon Website',
         bgImage: '/work-6.png',
-        url:'https://majikalyan.github.io/barber-salon/'
+        url: 'https://majikalyan.github.io/barber-salon/'
+    },
+    {
+        title: 'NFT Marketplace',
+        description: 'NFT Website',
+        bgImage: '/work-7.png',
+        url: 'https://majikalyan.github.io/nft-marketplace/'
     },
 ]
 
